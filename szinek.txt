@@ -1,4 +1,4 @@
 vörös
 kék
 fekete
-zöld
+zöld 
