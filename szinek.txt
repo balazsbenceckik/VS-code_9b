@@ -6,3 +6,5 @@ lila
 guug
 barna 
 narancs
+barna
+citrom
