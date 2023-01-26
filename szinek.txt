@@ -4,4 +4,5 @@ fekete
 zöld
 lila
 guug
-barna
+barna 
+narancs
